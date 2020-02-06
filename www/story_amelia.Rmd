@@ -1,0 +1,10 @@
+---
+title: "Amelia's Story"
+author: "amelia eigerman"
+date: "2/6/2020"
+output: html_document
+---
+
+At this point most of us are aware that we are being turned into data by our devices day in and day out.  Our phones learn our faces, track our steps, and even learn our sleeping patterns.  As an iPhone user, I find Apple’s constant surveillance creepy, but not creepy enough to do anything about it.  Still, when I upgraded my phone I was intrigued by the Screen Time feature.  Screen Time displays how long I spend on my phone in brightly colored semi-judgmental bar charts.  It breaks down my time by app-type and app.  It also shows number of notifications and “pick-ups” and the app crunches weekly averages for all of these statistics.  
+
+Others, like Ian Bogost with The Atlantic,  have debated how useful this information is to the user.  I am less concerned with its utility and more concerned with what it represents.  To me, Screen Time is a small user-facing window into the world of data Apple has on me, and it represents the normalization of surveillance by private corporations.  Through Screen Time, Apple Health, Find my Friends, and other Apple applications, Apple is moving out of hiding about just how much they can learn about us from our phones.  Instead of collecting data in secret, they are using their data collection as a marketable service.  This normalization of big data collection is a trend that scares me, and I feel it represents a decline in the right to privacy.  That said, I will continue to use my iPhone constantly.  It would be a pain not to.
